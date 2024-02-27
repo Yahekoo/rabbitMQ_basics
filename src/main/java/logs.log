@@ -1,0 +1,5 @@
+ [*] Waiting for messages. To exit press CTRL+C
+ [x] Received 'INFO : Hello World'
+ [x] Received 'My Life Was Good'
+ [x] Received 'My Life Was Good HHH'
+ [x] Received 'INFO : Hello World'
